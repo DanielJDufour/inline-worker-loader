@@ -1,6 +1,6 @@
 {
   "name": "inline-worker-loader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "inline-worker-loader",
   "main": "index.js",
   "files": [
