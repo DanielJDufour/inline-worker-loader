@@ -1,0 +1,28 @@
+{
+  "name": "inline-worker-loader",
+  "version": "0.0.0",
+  "description": "inline-worker-loader",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx prettier --print-width=120 --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/inline-worker-loader.git"
+  },
+  "keywords": [
+    "web",
+    "worker"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/inline-worker-loader/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/inline-worker-loader#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "memfs": "^3.2.4",
+    "webpack": "^5.52.0"
+  }
+}
